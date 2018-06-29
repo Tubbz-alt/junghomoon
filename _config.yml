@@ -12,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Edimoon # add your name
 author-img: edimoon.jpg # add your photo
 about-author: I am a flight software engineer focusing on intelligent flight software. Always hungry to keep learning. # add description
-about_author2 : Drone, UAV, Guidance, Control
+about_author2: Drone, UAV, Guidance, Control
 social-twitter: # add your Twitter handle
 social-facebook: Tigerjhmoon # add your Facebook handle
 social-github: edimoon777 # add your Github handle
