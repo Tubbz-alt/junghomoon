@@ -7,6 +7,8 @@ img: software.jpg # Add image post (optional)
 tags: [Productivity, Software, Linux, 리눅스] # add tag
 ---
 
+리눅스를 사용하면서 필요하다고 생각되는 내용을 메모로 정리합니다.
+
 # 활용 관련
 * root 권한 얻기  
 `su`  
