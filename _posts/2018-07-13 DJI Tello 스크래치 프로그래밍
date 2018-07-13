@@ -1,0 +1,16 @@
+---
+layout: post
+title: DJI Tello 스크래치 프로그래밍
+date: 2018-06-29 18:00:00 +0300
+description: DJI Tello 스크래치 프로그래밍을 처음부터 시작합니다.
+img: software.jpg # Add image post (optional)
+tags: [Software, DJI, Tello, Scratch, Programming] # add tag
+---
+
+### 참고 동영상
+https://youtu.be/iHPze7DwjbM   
+
+### 스크래치 환경을 설치합니다.
+1. 스크래치 사이트에 접속해 필요한 파일을 다운로드 합니다.   
+   https://scratch.mit.edu/download
+2. Adobe AIR을 설치합니다.
