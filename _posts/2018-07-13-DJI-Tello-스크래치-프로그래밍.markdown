@@ -3,7 +3,7 @@ layout: post
 title: DJI Tello 스크래치 프로그래밍
 date: 2018-06-29 18:00:00 +0300
 description: DJI Tello 스크래치 프로그래밍을 처음부터 시작합니다.
-img: software.jpg # Add image post (optional)
+img: https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/01/10/source-img/20180110152646_26838.jpg # Add image post (optional)
 tags: [Software, DJI, Tello, Scratch, Programming] # add tag
 ---
 
