@@ -13,7 +13,7 @@ DJI Tello를 대상으로 스크래치 프로그램을 하면서 내용을 정�
 ### 참고 동영상
 https://youtu.be/iHPze7DwjbM   
 
-### 가장 먼저 텔로 사이트에서 다운로드합니다.
+### 가장 먼저 텔로 사이트에서 필요한 파일을 다운로드합니다.
 https://www.ryzerobotics.com/kr/tello/downloads
 
 ### 스크래치 환경을 설치합니다.
