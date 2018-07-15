@@ -7,6 +7,9 @@ img: DJI-Tello.jpg # Add image post (optional)
 tags: [Software, DJI, Tello, Scratch, Programming] # add tag
 ---
 
+DJI Tello를 대상으로 스크래치 프로그램을 하면서 내용을 정리해봅니다.   
+어린이 교육용으로 아주 적합할 것 같습니다.   
+
 ### 참고 동영상
 https://youtu.be/iHPze7DwjbM   
 
