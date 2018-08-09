@@ -39,7 +39,7 @@ https://www.ryzerobotics.com/kr/tello/downloads
    해당 터미널을 닫지않고 유지한다.    
    
 2. Tello의 명령어들을 Scratch 라이브러리로 추가한다.    
-   Scratch 2.0 프로그램을 열고 Shift를 누른상태로 파일메뉴를 클릭한다.   
-   여기서 Import~ 를 클릭하여 Tello.s2e 파일을 열어준다.   
-   그러면 More blocks에 Tello 명령어들이 추가된 것을 볼 수 있다.   
+   2-1. Scratch 2.0 프로그램을 열고 Shift를 누른상태로 파일메뉴를 클릭한다.   
+   2-2. 여기서 Import~ 를 클릭하여 Tello.s2e 파일을 열어준다.   
+   2-3. 그러면 More blocks에 Tello 명령어들이 추가된 것을 볼 수 있다.   
    
