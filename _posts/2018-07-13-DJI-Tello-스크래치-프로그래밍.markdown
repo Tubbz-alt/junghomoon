@@ -16,21 +16,22 @@ https://youtu.be/iHPze7DwjbM
 ### 참고 사이트
 DroneBlocks 교육 앱 사이트 : http://www.droneblocks.io/     
 
-### 가장 먼저 텔로 사이트에서 필요한 파일을 다운로드합니다.
+### 텔로 사이트에서 필요한 파일을 다운로드합니다.
 https://www.ryzerobotics.com/kr/tello/downloads
 
-### 스크래치 환경을 설치합니다.
+
+### 스크래치 환경을 설치합니다.   
 1. 스크래치 사이트에 접속해 필요한 파일을 다운로드 합니다.   
    https://scratch.mit.edu/download
 2. Adobe AIR을 설치합니다.
 3. Scratch를 설치합니다.
-4. Node.js 를 설치합니다. 안정성을 위해 LTS 버전을 추천합니다.
+4. Node.js 를 설치합니다. 안정성을 위해 LTS 버전을 추천합니다.   
    https://www.ryzerobotics.com/kr/tello/downloads   
-
 5. 텔로 라이브러리 파일을 받아서 압축을 풀어줍니다.   
-   https://dl-cdn.ryzerobotics.com/downloads/tello/20180222/Scratch.zip
+   https://dl-cdn.ryzerobotics.com/downloads/tello/20180222/Scratch.zip   
    
-### 실행방법
+   
+### 실행방법   
 1. 압축을 푼 폴더에서 node Tello.js 를 실행한다.   
    1-1. 윈도우에서 cmd를 치고 해당 폴더로 이동한 후 node Tello.js 를 입력한다.   
    1-2. 윈도우탐색기로 Tello.js 파일을 찾아서 오른쪽 클릭하여 node js 프로그램을 연결해 줘도 된다.   
