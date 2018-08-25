@@ -2,7 +2,7 @@
 
 참고 사이트 : https://github.com/hybridgroup/gobot   
 
-1. go 개발환경을 설치한다.    
+##1. go 개발환경을 설치한다.    
    1) Linux 프로그램을 다운로드한다.   
    | 사이트 : https://golang.org/dl/
    2) Download the archive and extract it into /usr/local, creating a Go tree in /usr/local/go.   
@@ -12,7 +12,7 @@
 `export PATH=$PATH:/usr/local/go/bin`
    4) 프로파일 적용을 위해 리눅스를 재부팅한다.   
    
-2. go 개발환경이 정상적으로 설치되었는지 테스트해본다.
+##2. go 개발환경이 정상적으로 설치되었는지 테스트해본다.
    1) Create your workspace directory, $HOME/go.   
    2) Make the directory src/hello inside your workspace, and in that directory create a file named hello.go that looks like:
    3) hello.go 파일의 내용을 아래와 같이 수정한다. 
@@ -33,6 +33,6 @@ func main() {
 `$ ./hello`   
 `hello, world`   
 
-2. gobot 프로그램을 설치한다.   
+##3. gobot 프로그램을 설치한다.   
  
    
