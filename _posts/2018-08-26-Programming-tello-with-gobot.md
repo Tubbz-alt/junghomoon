@@ -40,8 +40,12 @@ func main() {
 
 ## 3. gobot 프로그램을 설치한다.   
  
-   
+## 4. 비행해보기
+
+## 5. 영상받아보기
+참고사이트 :  https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/   
    
 ## mplayer 설치 방법
+
    `sudo apt-get install mplayer`   
    
