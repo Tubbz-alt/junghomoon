@@ -41,3 +41,7 @@ func main() {
 ## 3. gobot 프로그램을 설치한다.   
  
    
+   
+## mplayer 설치 방법
+   `sudo apt-get install mplayer`   
+   
