@@ -60,7 +60,7 @@ func main() {
 
 2. tello.go 파일을 생성해 아래 코드를 붙여넣기한 후 저장한다.   
 
-<code>
+<pre>
   package main
   import (
       "time"   #"fmt"는 삭제해야 함.
@@ -82,7 +82,7 @@ func main() {
       )
       robot.Start()
   }
-</code>
+</pre>
 
 3. go 스크립트를 빌드한다.   
 `$ cd $HOME/go/src/dji/tello`    
