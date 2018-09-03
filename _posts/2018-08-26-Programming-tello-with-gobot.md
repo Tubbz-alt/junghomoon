@@ -1,4 +1,13 @@
-# gobot으로 DJI Tello 드론 프로그램하기   
+---
+layout: post
+title: gobot으로 DJI Tello 드론 프로그램하기  
+date: 2018-08-26 18:00:00 +0900
+description: Gobot으로 DJI Tello 드론 프로그램하기
+img: DJI-Tello.jpg # Add image post (optional)
+tags: [Software,DJI,Tello,Scratch,Programming,Gobot,Golang] # add tag
+---
+
+# Gobot으로 DJI Tello 드론 프로그램하기   
 
 *참고 사이트 : https://github.com/hybridgroup/gobot   
 
