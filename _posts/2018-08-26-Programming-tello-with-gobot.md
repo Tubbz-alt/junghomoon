@@ -1,6 +1,6 @@
 # gobot으로 DJI Tello 드론 프로그램하기   
 
-참고 사이트 : https://github.com/hybridgroup/gobot   
+*참고 사이트 : https://github.com/hybridgroup/gobot   
 
 ## 1. go 개발환경을 설치한다.    
    1) Linux용 설치 프로그램을 다운로드한다.   
@@ -39,11 +39,11 @@ func main() {
 `hello, world`   
 
 ## 3. gobot 프로그램을 설치한다.   
-참고사이트 : https://gobot.io/documentation/getting-started/   
+*참고사이트 : https://gobot.io/documentation/getting-started/   
  `$ go get -d -u gobot.io/x/gobot/...`
  
 ## 4. 비행해보기
-참고사이트 : https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/   
+*참고사이트 : https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/   
 지금부터 텔로 프로그램을 해보자.
 먼저, go 스크립트를 포함할 폴더를 아래와 같은 경로가 되도록 생성한다. (제조사/제품명)   
 `~/go/src/dji/tello`    
