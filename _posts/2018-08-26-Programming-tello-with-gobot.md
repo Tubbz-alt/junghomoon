@@ -39,6 +39,7 @@ func main() {
 `hello, world`   
 
 ## 3. gobot 프로그램을 설치한다.   
+참고사이트 : https://gobot.io/documentation/getting-started/   
  `$ go get -d -u gobot.io/x/gobot/...`
  
 ## 4. 비행해보기
