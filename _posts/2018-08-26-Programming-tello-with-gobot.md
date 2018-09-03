@@ -82,11 +82,11 @@ func main() {
   }
 </pre>
 
-3. go 스크립트를 빌드한다.
-`$ cd $HOME/go/src/dji/tello`   
-`$ go build`   
+3. go 스크립트를 빌드한다.   
+`$ cd $HOME/go/src/dji/tello`    
+`$ go build`    
 
-4. 프로그램을 실행한다.
+4. 프로그램을 실행한다.   
 `$ ./tello`   
 
 ## 5. 영상받아보기
