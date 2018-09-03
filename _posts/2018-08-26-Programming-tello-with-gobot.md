@@ -43,6 +43,39 @@ func main() {
  `$ go get -d -u gobot.io/x/gobot/...`
  
 ## 4. 비행해보기
+참고사이트 : https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/    
+
+<pre>
+  package main
+
+  import (
+      "time"
+
+      "gobot.io/x/gobot"
+      "gobot.io/x/gobot/platforms/dji/tello"
+  )
+
+  func main() {
+      drone := tello.NewDriver("8888")
+
+      work := func() {
+          drone.TakeOff()
+
+          gobot.After(5*time.Second, func() {
+              drone.Land()
+          })
+      }
+
+      robot := gobot.NewRobot("tello",
+          []gobot.Connection{},
+          []gobot.Device{drone},
+          work,
+      )
+
+      robot.Start()
+  }
+</pre>
+
 
 ## 5. 영상받아보기
 참고사이트 :  https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/   
