@@ -46,7 +46,7 @@ func main() {
 참고사이트 : https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/   
 지금부터 텔로 프로그램을 해보자.
 먼저, go 스크립트를 포함할 폴더를 아래와 같은 경로가 되도록 생성한다. (제조사/제품명)   
-`go/src/dji/tello`    
+`~/go/src/dji/tello`    
 
 <pre>
   package main
