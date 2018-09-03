@@ -9,8 +9,9 @@
       `sudo tar -C /usr/local -xzf go1.11.linux-amd64.tar.gz`   
    3) /usr/local/go 폴더 트리를 만든다.    
    3) 프로파일에 PATH를 추가한다.   
-      HOME에서 `vi /.profile` 를 실행한다.   
-      가장 아래쪽에 경로를 추가한다.   
+      HOME에서 `vi .profile` 를 실행한다.   
+      *주의 : .profile은 숨겨져있으므로, `ls -a` 명령어로 볼 수 있음.   
+      파일의 가장 아래쪽에 아래와 같이 경로를 추가한다.   
       `export PATH=$PATH:/usr/local/go/bin`   
       `export GOPATH=$HOME/go`   
       *참고 : vi명령어 a를 눌러 편집모드로 전환하고 :wq 로 저장하면 된다.
