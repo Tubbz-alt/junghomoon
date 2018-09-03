@@ -33,14 +33,13 @@ tags: [Software,DJI,Tello,Scratch,Programming,Gobot,Golang] # add tag
    3) hello.go 파일의 내용을 아래와 같이 수정한다. 
 <pre>
 package main
-
 import "fmt"
-
 func main() {
 	fmt.Printf("hello, world\n")
 }
-</pre>
-   4) go Tool을 빌드한다.   
+</pre>   
+
+4) go Tool을 빌드한다.   
 `$ cd $HOME/go/src/hello`   
 `$ go build`   
 
@@ -61,36 +60,29 @@ func main() {
 
 2. tello.go 파일을 생성해 아래 코드를 붙여넣기한 후 저장한다.   
 
-<pre>
+<code>
   package main
-
   import (
-      "time"
-
+      "time"   #"fmt"는 삭제해야 함.
       "gobot.io/x/gobot"
       "gobot.io/x/gobot/platforms/dji/tello"
   )
-
   func main() {
       drone := tello.NewDriver("8888")
-
       work := func() {
           drone.TakeOff()
-
           gobot.After(5*time.Second, func() {
               drone.Land()
           })
       }
-
       robot := gobot.NewRobot("tello",
           []gobot.Connection{},
           []gobot.Device{drone},
           work,
       )
-
       robot.Start()
   }
-</pre>
+</code>
 
 3. go 스크립트를 빌드한다.   
 `$ cd $HOME/go/src/dji/tello`    
