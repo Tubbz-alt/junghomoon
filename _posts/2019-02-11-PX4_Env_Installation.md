@@ -26,3 +26,10 @@ Log-out 후 다시 Log-in을 하면 권한이 반영됩니다.
 
 컴퓨터를 재실행한다.   
 
+# PX4 소스코드 다운로드하기   
+1. Github에서 로그인한다.   
+2. Firmware repository에서 Fork 버튼을 눌러 본인 계정으로 복사한다.   
+3. Repository URL을 복사한다.   
+4. 복사한 URL을 git으로 clone한다.   
+`git clone https://github.com/<youraccountname>/Firmware.git`   
+
