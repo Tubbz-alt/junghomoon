@@ -16,6 +16,13 @@ tags: [PX4,Gazebo] # add tag
 dialout은 권한을 모두 무시하라는 의미입니다.   
 Log-out 후 다시 Log-in을 하면 권한이 반영됩니다.   
 
->    
->   
+# Pixhawk/NuttX (and jMAVSim)을 설치하기
+먼저, ubuntu_sim_nuttx.sh 파일을 다운로드한다.    
+주소 : https://raw.githubusercontent.com/PX4/Devguide/master/build_scripts/ubuntu_sim_nuttx.sh    
+다운로드가 안될 경우 내용을 복사해서 파일을 저장한다.   
+
+스크립트를 실행한다.   
+`source ubuntu_sim_nuttx.sh`   
+
+컴퓨터를 재실행한다.   
 
