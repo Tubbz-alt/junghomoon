@@ -58,4 +58,13 @@ Gazebo를 실행할 때는 아래와 같이 명령을 실행한다.
 `cd Firmware`
 `make px4_fmu-v2_default`   
 
+## 펌웨어 업로드(Flashing) 하기   
+Pixhawk을 USB로 연결한 후 아래와 같이 실행한다.   
+`make px4_fmu-v2_default upload`   
+
+Pixhakw 멜로디와 함께 업로드가 완료된다.   
+
+다음부터는 IDE  
+
+
 
