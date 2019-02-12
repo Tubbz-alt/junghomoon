@@ -3,7 +3,7 @@ layout: post
 title: PX4 리눅스 개발환경 설치
 date: 2019-02-11 20:40:00 +0900
 description: PX4 리눅스 개발환경 설치
-img: ros_robot.jpg # Add image post (optional)
+img: jmavsim_first_takeoff.png # Add image post (optional)
 tags: [PX4,Gazebo] # add tag
 ---
 
