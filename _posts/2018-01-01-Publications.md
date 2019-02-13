@@ -8,7 +8,11 @@ tags: [] # add tag
 ---
 
 # About Me
-* Name : Jung-ho Moon (J.H.Moon)   
+* Name : Jung-ho Moon (J.H.Moon) 
+* Educations
+  * B.S '03 Korea Aerospace University(KAU)   
+  * M.S '05 Korea Aerospace University(KAU)   
+  * Ph.D '19 Korea Advanced Institute of Science and Technology(KAIST)   
 * Research Interests   
   * Guidance, Control, and Navigation(GNC)   
   * Flight control software development    
