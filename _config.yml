@@ -26,7 +26,7 @@ social-email: tigerjhmoon@gmail.com # add your Email address
 discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-analytics: 134471550 # Google Analytics
+analytics: UA-134471550-1 # Google Analytics
 
 # Build Settings
 #markdown: kramdown
