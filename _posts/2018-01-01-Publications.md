@@ -7,6 +7,20 @@ img:  # Add image post (optional)
 tags: [] # add tag
 ---
 
+# About Me
+*Name : Jung-ho Moon (J.H.Moon)   
+*Research Interests   
+ - Guidance, Control, and Navigation(GNC)
+ - Flight control software development   
+ - UAV system design & varification    
+ - Formation flight & swarm guidance   
+ - Deep learning   
+ - Flight Data analysis   
+*Careers   
+  '05 ~ Present,  Koreanair R&D Center, UAV Control Law Engineer
+
+
+# Publications
 ## International Patents (PCT)
 **J. H. Moon**, "Method for stabilizing mission equipment using unmanned aerial vehicle command and posture information", PCT/KR2016/000213, 2018.   
 
