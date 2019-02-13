@@ -12,8 +12,11 @@ tags: [] # add tag
 
 **J. H. Moon**, D. H. Jeon, and Y. H. Choi, "Method for guiding and controlling drone using information for controlling camera of drone", PCT/KR2016/000217, 2018. 
 
+
+
 ## International Journals
 **J. H. Moon**, B. Y. Lee, and M. J. Tahk, "A Hybrid Dynamic Window Approach for Collision Avoidance of VTOL UAVs", International Journal of Aeronautical and Space Sciences, 01, Aug., 2018.   
+
 
 ## International Conferences
 **J. H. Moon**, S. K. Choi, S. J. Cho, and H. D. Kim, "Guidance and Control of Automatic Short Landing with Steep Glide Slope for UAV", International Council of the Aeronautical Science, 2016.   
@@ -29,6 +32,7 @@ B. Y. Lee, D. Y. Won, M. J. Tahk, and **J. H. Moon**, "Performance comparison of
 E. J. Roh, S. S. Shin, **J.H. Moon**, and S.J. Cho, "The development of an Automatic Vision-Based Recovery Method for a Close-Range Surveillance UAV”, AUVSI Unmanned Systems North America, Denver, Denver, USA, 2010.
 
 S. K. Choi, T. S. Kuk, **J.H. Moon**, S.J. Cho, and S.S. Shin, "The development of flight control system for the close-range surveillance UAV", International Federation of Automatic Control Proceedings, vol. 40, no. 7, pp. 456-460, 2007.
+
 
 
 ## Domestic Patents (국내 특허)
