@@ -12,6 +12,7 @@ tags: [] # add tag
 
 **J. H. Moon**, D. H. Jeon, and Y. H. Choi, "Method for guiding and controlling drone using information for controlling camera of drone", PCT/KR2016/000217, 2018. 
 
+**J. H. Moon**, M. S. Park, J. G. Park , "Method and System for Compensation Error of circle loitering guidance control in UAV", PCT/KR2018/010202, 2018.   
 
 ----
 ## International Journals
