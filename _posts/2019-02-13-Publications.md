@@ -8,6 +8,12 @@ tags: [] # add tag
 ---
 
 # Publications
+
+## International Patents (PCT)
+**J. H. Moon**, "Method for stabilizing mission equipment using unmanned aerial vehicle command and posture information", PCT/KR2016/000213, 2018.   
+
+**J. H. Moon**, D. H. Jeon, and Y. H. Choi, "Method for guiding and controlling drone using information for controlling camera of drone", PCT/KR2016/000217, 2018. 
+
 ## International Journals
 **J. H. Moon**, B. Y. Lee, and M. J. Tahk, "A Hybrid Dynamic Window Approach for Collision Avoidance of VTOL UAVs", International Journal of Aeronautical and Space Sciences, 01, Aug., 2018.   
 
@@ -78,11 +84,7 @@ S. K. Choi, T. S. Kuk, **J.H. Moon**, S.J. Cho, and S.S. Shin, "The development 
 
 이현용, **문정호**, 박욱제, 황명신, "무인항공기 자세 제어기를 위한 적외선 열센서 적용에 관한 연구", 한국항공우주학회 학술발표회 초록집, pp. 348-351, 2004.
 
-
-## International Patents (PCT)
-**J. H. Moon**, "Method for stabilizing mission equipment using unmanned aerial vehicle command and posture information", PCT/KR2016/000213, 2018.   
-
-**J. H. Moon**, D. H. Jeon, and Y. H. Choi, "Method for guiding and controlling drone using information for controlling camera of drone", PCT/KR2016/000217, 2018.   
+  
 
 ## Domestic Patents
 **문정호**, 박종근, 박문수, "무인기 원선회 유도제어 오차 보상 시스템 및 방법", 출원번호 제10-2017-0111683, 2017.
