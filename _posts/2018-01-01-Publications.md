@@ -8,7 +8,7 @@ tags: [] # add tag
 ---
 
 # About Me
-* Name : Jung-ho Moon (Eddie Moon) 
+* Name : Jung-ho Moon 
 * Educations
   * '03 B.S, Aerospace and Mechanical Engineering, Korea Aerospace University(KAU)   
   * '05 M.S, Aerospace and Mechanical Engineering, Korea Aerospace University(KAU)   
