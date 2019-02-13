@@ -11,7 +11,7 @@ tags: [] # add tag
 * Name : Jung-ho Moon (J.H.Moon) 
 * Educations
   * '03 B.S, Aerospace and Mechanical Engineering, Korea Aerospace University(KAU)   
-  * '05 M.S, Department of Aerospace and Mechanical Engineering, Korea Aerospace University(KAU)   
+  * '05 M.S, Aerospace and Mechanical Engineering, Korea Aerospace University(KAU)   
   * '19 Ph.D, Aerospace Engineering, Korea Advanced Institute of Science and Technology(KAIST)   
 * Research Interests   
   * Guidance, Control, and Navigation(GNC)   
