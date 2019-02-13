@@ -7,4 +7,4 @@ img:  # Add image post (optional)
 tags: [] # add tag
 ---
 
-#International Journals
+# International Journals
