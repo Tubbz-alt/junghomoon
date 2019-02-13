@@ -10,12 +10,12 @@ tags: [] # add tag
 # About Me
 * Name : Jung-ho Moon (J.H.Moon)   
 * Research Interests   
- - Guidance, Control, and Navigation(GNC)
- - Flight control software development   
- - UAV system design & varification    
- - Formation flight & swarm guidance   
- - Deep learning   
- - Flight Data analysis   
+ > Guidance, Control, and Navigation(GNC)   
+ > Flight control software development    
+ > UAV system design & varification    
+ > Formation flight & swarm guidance   
+ > Deep learning   
+ > Flight Data analysis   
 *Careers   
   '05 ~ Present,  Koreanair R&D Center, UAV Control Law Engineer
 
