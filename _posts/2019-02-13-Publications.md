@@ -7,10 +7,11 @@ img:  # Add image post (optional)
 tags: [] # add tag
 ---
 
-# International Journals
+# Publications
+## International Journals
 **J. H. Moon**, B. Y. Lee, and M. J. Tahk, "A Hybrid Dynamic Window Approach for Collision Avoidance of VTOL UAVs", International Journal of Aeronautical and Space Sciences, 01, Aug., 2018.   
 
-# International Conferences
+## International Conferences
 **J. H. Moon**, S. K. Choi, S. J. Cho, and H. D. Kim, "Guidance and Control of Automatic Short Landing with Steep Glide Slope for UAV", International Council of the Aeronautical Science, 2016.   
 
 **J. H. Moon**, D. H. Jeon, and Kim, Y. C., "UAV Flight Control Software Development based on COTS product", Interservice/Industry Training, Simulation and Education Conference, 2014.   
@@ -40,7 +41,7 @@ S. K. Choi, T. S. Kuk, **J.H. Moon**, S.J. Cho, and S.S. Shin, "The development 
 박욱제, 노양수, 최진원, 문정호, 황명신, 성기정, "비행중 실시간 파라미터 추정기법을 이용한 커나드 비행기의 가로안정성에 관한 연구", 한국항공우주학회지, vol. 32, no. 9, pp. 57-64, 2004.    
 
 
-# Domestic Conferences
+## Domestic Conferences
 문정호, 박문수, 최윤한, 박종근, "유인헬기 무인화를 위한 제어법칙 및 비행성 평가", 한국항공우주학회 학술발표회 초록집, 2017, pp. 848-849.   
 문정호, 박문수, 최윤한, 김홍대, "Cross-track 기반의 원선회 유도오차 보상기 설계", 한국항공우주학회 학술발표회 초록집, pp. 191-194, 2017.   
 장지은, 박문수, 문정호, 이철, "유인헬기 무인화 제어기의 제자리/저속비행 비행성 평가", 한국항공우주학회 학술발표회 초록집, 2017, pp. 202-203.
@@ -61,12 +62,12 @@ S. K. Choi, T. S. Kuk, **J.H. Moon**, S.J. Cho, and S.S. Shin, "The development 
 이현용, 문정호, 박욱제, 황명신, "무인항공기 자세 제어기를 위한 적외선 열센서 적용에 관한 연구", 한국항공우주학회 학술발표회 초록집, pp. 348-351, 2004.
 
 
-# International Patents (PCT)
+## International Patents (PCT)
 J. H. Moon, "Method for stabilizing mission equipment using unmanned aerial vehicle command and posture information", PCT/KR2016/000213, 2018.   
 
 J. H. Moon, D. H. Jeon, and Y. H. Choi, "Method for guiding and controlling drone using information for controlling camera of drone", PCT/KR2016/000217, 2018.   
 
-# Domestic Patents
+## Domestic Patents
 문정호, 박종근, 박문수, "무인기 원선회 유도제어 오차 보상 시스템 및 방법", 출원번호 제10-2017-0111683, 2017.
 
 문정호, 최승기, 조신제, "무인항공기 자동착륙 방법", 등록번호 제10-1507752, 2015.
