@@ -15,10 +15,12 @@ tags: [] # add tag
 
 
 ## International Journals
+----
 **J. H. Moon**, B. Y. Lee, and M. J. Tahk, "A Hybrid Dynamic Window Approach for Collision Avoidance of VTOL UAVs", International Journal of Aeronautical and Space Sciences, 01, Aug., 2018.   
 
 
 ## International Conferences
+----
 **J. H. Moon**, S. K. Choi, S. J. Cho, and H. D. Kim, "Guidance and Control of Automatic Short Landing with Steep Glide Slope for UAV", International Council of the Aeronautical Science, 2016.   
 
 **J. H. Moon**, D. H. Jeon, and Kim, Y. C., "UAV Flight Control Software Development based on COTS product", Interservice/Industry Training, Simulation and Education Conference, 2014.   
@@ -36,6 +38,7 @@ S. K. Choi, T. S. Kuk, **J.H. Moon**, S.J. Cho, and S.S. Shin, "The development 
 
 
 ## Domestic Patents (국내 특허)
+----
 **문정호**, 박종근, 박문수, "무인기 원선회 유도제어 오차 보상 시스템 및 방법", 출원번호 제10-2017-0111683, 2017.
 
 **문정호**, 최승기, 조신제, "무인항공기 자동착륙 방법", 등록번호 제10-1507752, 2015.
@@ -62,6 +65,7 @@ S. K. Choi, T. S. Kuk, **J.H. Moon**, S.J. Cho, and S.S. Shin, "The development 
 
 
 ## Domestic Journals (국내 학술지)
+----
 최승기, **문정호**, 고준수, "전술급 무인항공기 비행제어시스템의 감항인증 사례연구", 한국군사과학기술학회지, vol. 17, no. 4, pp. 430-435, 2014.  
 
 신성식, **문정호**, 노은정, "근접감시 무인항공기의 비행제어시스템 개발", 한국방위산업 학회지, vol. 18, no. 2, pp. 242-261, 2011.   
@@ -76,6 +80,7 @@ S. K. Choi, T. S. Kuk, **J.H. Moon**, S.J. Cho, and S.S. Shin, "The development 
 
 
 ## Domestic Conferences (국내 학술대회)
+----
 **문정호**, 박문수, 최윤한, 박종근, "유인헬기 무인화를 위한 제어법칙 및 비행성 평가", 한국항공우주학회 학술발표회 초록집, 2017, pp. 848-849.   
 
 **문정호**, 박문수, 최윤한, 김홍대, "Cross-track 기반의 원선회 유도오차 보상기 설계", 한국항공우주학회 학술발표회 초록집, pp. 191-194, 2017.   
