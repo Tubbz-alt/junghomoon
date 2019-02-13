@@ -14,7 +14,7 @@ tags: [] # add tag
   * '05 M.S, Aerospace and Mechanical Engineering, Korea Aerospace University(KAU)   
         Thesis : A study on the design of the UAV controller using fuzzy logic (Prof. Jai-Hyuk Hwang, Myoung-Shin Hwang)    
   * '19 Ph.D, Aerospace Engineering, Korea Advanced Institute of Science and Technology(KAIST)   
-        Dissertation : Hybrid Dynamic Window Approach(DWA) for Collision-avoidance of UAVs (Prof.Min-Jea Tahk)
+        Dissertation : Hybrid Dynamic Window Approach(DWA) for Collision-avoidance of UAVs (Prof. Min-Jea Tahk)
 * Research Interests   
   * Guidance, Control, and Navigation(GNC)   
   * Flight control software development    
