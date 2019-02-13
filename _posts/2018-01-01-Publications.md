@@ -13,18 +13,18 @@ tags: [] # add tag
   * Guidance, Control, and Navigation(GNC)   
   * Flight control software development    
   * UAV system design & varification    
-  * Formation flight & swarm guidance   
-  * Deep learning   
-  * Flight Data analysis   
+  * Collision avoidance & SLAM
+  * Formation flight & Swarm guidance   
+  * Deep learning & Flight Data analysis   
 * Careers   
   * '05 ~ Present,  Koreanair R&D Center, UAV Control Law Engineer    
-    * (산자부) 유인헬기(500MD) 무인화 비행조종시스템 개발   
-    * (방사청) 사단정찰용 무인기 비행제어 담당   
-    * (ADD) 저피탐 축소기 비행체 조종안정성 담당   
-    * (ADD) 중고도무인기 비행제어시스템 담당   
-    * (육군) 군단무인기 통합시뮬레이터 제어S/W 담당   
-    * (산자부) KUS-9 무인항공기 시스템 개발/항법제어 담당    
-    * (산자부) KUS-7 무인항공기 시스템 개발/HILS 담당    
+    * (산자부) 유인헬기(500MD) 무인화 비행조종시스템 개발 사업   
+    * (방사청) 사단정찰용 무인기 체계개발사업   
+    * (ADD) 저피탐 축소기 비행체 개발사업
+    * (ADD) 중고도무인기 탐색개발사업   
+    * (육군) 군단무인기 통합시뮬레이터 개발사업  
+    * (산자부) 근접감시용 무인항공기 시스템 (KUS-9) 기술 개발 사업  
+    * (산자부) 근접감시용 무인항공기 시스템 (KUS-7) 기술 개발 
 
    
    
