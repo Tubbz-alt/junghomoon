@@ -12,6 +12,7 @@ tags: [] # add tag
 * Educations
   * '03 B.S, Aerospace and Mechanical Engineering, Korea Aerospace University(KAU)   
   * '05 M.S, Aerospace and Mechanical Engineering, Korea Aerospace University(KAU)   
+    "Fuzzy"   
   * '19 Ph.D, Aerospace Engineering, Korea Advanced Institute of Science and Technology(KAIST)   
     "Hybrid Dynamic Window Approach(DWA) for Collision-avoidance of UAVs", Prof.Min-Jea Tahk
 * Research Interests   
