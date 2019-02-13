@@ -8,8 +8,8 @@ tags: [] # add tag
 ---
 
 # About Me
-*Name : Jung-ho Moon (J.H.Moon)   
-*Research Interests   
+* Name : Jung-ho Moon (J.H.Moon)   
+* Research Interests   
  - Guidance, Control, and Navigation(GNC)
  - Flight control software development   
  - UAV system design & varification    
