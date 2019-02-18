@@ -64,7 +64,7 @@ Pixhawk을 USB로 연결한 후 아래와 같이 실행한다.
 
 Pixhakw 멜로디와 함께 업로드가 완료된다.   
 
-# Qt Creator IDE를 이요하여 개발하기   
+# Qt Creator IDE를 이용하여 개발하기   
 PX4는 공식적으로 QtCreator만 지원하므로 가능하면 QtCreator를 사용할 것을 권장한다.   
 
 ## Qt Creator project파일 생성하기   
