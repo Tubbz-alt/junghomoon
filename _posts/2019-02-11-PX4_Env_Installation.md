@@ -83,6 +83,4 @@ cmake ../Firmware -G "CodeBlocks - Unix Makefiles"
 
 ## Qt Creator에서 프로젝트 불러오기   
 파일탐색기(Files)을 열어서 root에 있는 ~/Firmware 폴더의 CMakeLists.txt 파일을 우측 클릭 한 다음, QCreator로 실행한다.   
-QCreator에서 자동으로 폴더를 표시해주고 Run 
-
-
+QCreator에서 자동으로 폴더를 표시해주고 Run 버튼을 누르면 된다.   
