@@ -64,11 +64,14 @@ Pixhawk을 USB로 연결한 후 아래와 같이 실행한다.
 
 Pixhakw 멜로디와 함께 업로드가 완료된다.   
 
+
+
 # Qt Creator IDE를 이용하여 개발하기   
 PX4는 공식적으로 QtCreator만 지원하므로 가능하면 QtCreator를 사용할 것을 권장한다.   
 
 ## Qt Creator project파일 생성하기   
-먼저 Project 폴더의 파일을 생성한다. 원본 소스코드 폴더는 유지하고 별도의 Firmware-build 라는 폴더를 생성한다.   
+먼저 Project 폴더의 파일을 생성한다. 
+원본 소스코드 폴더(~/src/Firmware)는 유지하고 별도의 ~/src/Firmware-build 라는 폴더를 생성한다.   
 <pre>
 cd ~/src/Firmware
 mkdir ../Firmware-build
@@ -79,7 +82,7 @@ cmake ../Firmware -G "CodeBlocks - Unix Makefiles"
 위와 같이 실행하면 Firmware-build 폴더 내에 필요한 파일들이 복사된다.   
 
 ## Qt Creator에서 프로젝트 불러오기   
-파일탐색기(Files)을 열어서 ~/Firmware 폴더의 CMakeLists.txt 파일을 우측 클릭 한 다음, QCreator로 실행한다.   
-QCreator에서 자동으로 폴더를 표시해주고 Finish를 하면 프로젝트가 생성된다.   
+파일탐색기(Files)을 열어서 root에 있는 ~/Firmware 폴더의 CMakeLists.txt 파일을 우측 클릭 한 다음, QCreator로 실행한다.   
+QCreator에서 자동으로 폴더를 표시해주고 Run
 
 
