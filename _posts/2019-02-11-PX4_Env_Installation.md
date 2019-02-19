@@ -71,9 +71,9 @@ PX4는 공식적으로 QtCreator만 지원하므로 가능하면 QtCreator를 �
 
 ## Qt Creator project파일 생성하기   
 먼저 Project 폴더의 파일을 생성한다. 
-원본 소스코드 폴더(~/src/Firmware)는 유지하고 별도의 ~/src/Firmware-build 라는 폴더를 생성한다.   
+원본 소스코드 폴더(~/Firmware)는 유지하고 별도의 ~/Firmware-build 라는 폴더를 생성한다.   
 <pre>
-cd ~/src/Firmware
+cd ~/Firmware
 mkdir ../Firmware-build
 cd ../Firmware-build
 cmake ../Firmware -G "CodeBlocks - Unix Makefiles"
